@@ -1,0 +1,31 @@
+{
+  "author": "ryuko",
+  "developermode": false,
+  "language": "en",
+  "approval": false,
+  "premium": false,
+  "BOTNAME": "Miuki",
+  "EMAIL": "xakibin@gmail.com",
+  "PREFIX": "/",
+  "BOTOWNER": "Sakibin",
+  "OPERATOR": [
+    "100065445284007",
+    ""
+  ],
+  "ADMINBOT": [
+    "100065445284007",
+    "61566833772746",
+    "100091319993595"
+  ],
+
+  "reactUnsend": [
+      "😡",
+      "😾",
+      "👎",
+      "😠"
+  ],
+  
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase"
+}
